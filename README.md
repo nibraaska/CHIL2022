@@ -1,8 +1,6 @@
-# Semi-Supervised-Techniques
-## Techniques for semi-supervised learning
+# Semi-Supervised-Stress-Detection
 ## CHIL 2022 Anonymized
-
-This repository is an anonymized repo for Semi-Supervised Learning Stress Detection
+### Anonymized repo for Semi-Supervised Learning Stress Detection
 
 Description of files and folders: 
 
